@@ -1,16 +1,71 @@
-# React + Vite
+# 🏠 SmartStay – Room & Rental Management Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🚀 **My First Frontend Project**
 
-Currently, two official plugins are available:
+SmartStay is my first frontend development project, built as part of my journey into web development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I created this project to practice and improve my skills in **React.js, JavaScript, HTML, CSS, React Router, responsive UI design, and frontend development**.
 
-## React Compiler
+SmartStay is a modern Room & Rental Management Platform that helps users discover apartments, PGs, hostels, houses and villas based on location, property type and budget.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Property search by location
+- 🏠 Browse different property types
+- 💰 Filter properties by price
+- ⭐ Property ratings
+- ❤️ Save favorite properties
+- 📅 Submit booking requests
+- 📋 Booking history
+- 👤 User profile management
+- 🔐 Login and registration
+- 📱 Responsive design
+- 🏡 Property details page
+- 🔎 Sort properties by price and rating
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Lucide React
+- Axios
+- Vite
+
+## 💾 Current Storage
+
+- LocalStorage
+
+## 🔮 Planned Backend
+
+- Python
+- Flask / Django
+- MySQL
+- REST API
+- JWT Authentication
+
+## 📂 Project Structure
+
+```text
+SmartStay/
+├── public/
+│   └── images/
+│       ├── property1.jpg
+│       ├── property2.jpg
+│       ├── property3.jpg
+│       ├── property4.jpg
+│       ├── property5.jpg
+│       └── property6.jpg
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── data/
+│   ├── pages/
+│   └── services/
+│
+├── package.json
+├── vite.config.js
+└── README.md
