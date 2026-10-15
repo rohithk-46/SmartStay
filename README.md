@@ -1,4 +1,4 @@
-🙏 **Thanks for visiting my code!** 💻 Check out my GitHub: [@rohithk-46](https://github.com/rohithk-46)
+**Thanks for visiting my code!** 💻 Check out my GitHub: [@rohithk-46](https://github.com/rohithk-46)
 
 ---
 
